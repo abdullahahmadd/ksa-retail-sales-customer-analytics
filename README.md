@@ -1,4 +1,4 @@
-# Saudi Retail Sales & Customer Analytics
+# KSA Retail Sales & Customer Analytics
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullahahmad.ksa-retail-sales-customer-analytics)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
